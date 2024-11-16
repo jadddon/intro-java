@@ -1,0 +1,12 @@
+jdy2108
+homework #1
+
+Question 1: 
+
+    1. (25-1)!/10,000,000 = 24!/10,000,000 = 6.2*10^(23) / 10^(7) = 6.2*10^16 seconds
+    2. No, this is not feasible. 6.2*10^16 seconds is roughly 1.9*10^(9) years.
+    3. A more reasonable solution is to have the the salesperson pick the closest city that has not yet been visited. At each step, the salesperson will identify the remaining city with the shortest distance to their current location until they have visited all of the cities once. 
+
+Question 2:
+
+    1. 
