@@ -1,0 +1,31 @@
+// Source code is decompiled from a .class file using FernFlower decompiler.
+import java.util.Scanner;
+
+public class HelloYou {
+   public HelloYou() {
+   }
+
+   public static void main(String[] var0) {
+      Scanner var1 = new Scanner(System.in);
+
+      try {
+         System.out.print("What is your name: ");
+         String var2 = var1.nextLine();
+         if (var2.isEmpty()) {
+            System.out.println("You didn't enter a name!");
+         } else {
+            System.out.println("Hello " + var2 + "!");
+         }
+      } catch (Throwable var5) {
+         try {
+            var1.close();
+         } catch (Throwable var4) {
+            var5.addSuppressed(var4);
+         }
+
+         throw var5;
+      }
+
+      var1.close();
+   }
+}
