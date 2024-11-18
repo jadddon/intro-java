@@ -28,4 +28,4 @@ public class BankAccount2 {
     public double getBalance() {
         return balance; // Return the current balance
     }
-}
+} 
