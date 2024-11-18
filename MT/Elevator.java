@@ -26,4 +26,6 @@ public class Elevator {
         if(currentFloor > 1) // Check if the current floor is greater than 1
             currentFloor--; // Move down one floor
     }  
-}
+}  
+
+//main takeaways and structure... 
