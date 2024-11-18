@@ -7,7 +7,7 @@ public class BankAccount3 {
     // Constructor(s)
     public BankAccount3(double balance) { 
         this.balance = balance; 
-    }
+    } 
     public BankAccount3() { 
         balance = 0; 
     }
@@ -34,4 +34,4 @@ public class BankAccount3 {
     public double getBalance() { 
         return balance; 
     }
-}
+}  
