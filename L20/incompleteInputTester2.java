@@ -1,6 +1,6 @@
 package L20; // Package declaration
 
-/// to run this use:       $ java InputTester.java input1.txt
+/// to run this use:       $ java InputTester2.java input1.txt
 
 import java.io.FileNotFoundException; // Importing the FileNotFoundException class
 import java.io.File; // Importing the File class
@@ -19,6 +19,7 @@ public class InputTester { // Class declaration
         int count = 1; // Initialize a counter to keep track of the line number
         while(in.hasNextLine()) { // Loop through each line in the file
             String line = in.nextLine(); // Read the next line
+            String[] words = line.split
             System.out.printf("Line %d: %s\n", count, line); // Print the line number and the line itself
             count++; // Increment the counter for the next line
         }
