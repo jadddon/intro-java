@@ -1,4 +1,4 @@
-package L20; // Package declaration
+package L21; // Package declaration
 
 /// to run this use:       $ java InputTester2.java input1.txt
 
