@@ -39,6 +39,6 @@ two pairs: 2x
 one pair: 1x
 no pairs: 0x
 
-//design
+//design 
 
 The Game class acts as a controller, coordinating between the Player, Deck, and hand evaluation logic. My design allows for easy testing and simple code. I structured the hand evaluation hierarchically to ensure correct payouts for hands that might qualify for multiple categories.
