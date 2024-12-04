@@ -1,5 +1,16 @@
 package L13;
 
+/**
+ * Key Concepts to Learn:
+ * 
+ * 1. Class and Object: This program demonstrates the use of a class and its instance variables to represent a car.
+ * 2. Constructor: It showcases how to use a constructor to initialize the car's properties.
+ * 3. Accessor and Mutator Methods: The program highlights the use of accessor and mutator methods to get and set the car's properties.
+ * 4. Method Overriding: It demonstrates how to override the toString method to provide a string representation of the car.
+ * 
+ * This program creates a Car class with instance variables for the car's make, model, year, color, and speed. It has a constructor to initialize the car's properties, accessor methods to get the car's properties, mutator methods to change the car's color and speed, and a method to provide a string representation of the car.
+ */
+
 public class Car {
     // Instance variables.
     private String make; // Car's make

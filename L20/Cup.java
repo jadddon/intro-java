@@ -1,5 +1,15 @@
 package L20;
 
+/**
+ * Key Concepts to Learn:
+ * 
+ * 1. Object-Oriented Programming: This program demonstrates the use of classes and objects to model real-world entities, such as a cup.
+ * 2. Encapsulation: The Cup class encapsulates its data (contents) and provides methods to manipulate and access it.
+ * 3. Interface Implementation: The Cup class implements the Measurable interface, which requires the implementation of a method to measure the contents of the cup.
+ * 
+ * This program defines a Cup class that can be filled and emptied with a specified amount of liquid. It also provides methods to get the current contents, measure the contents, and convert the contents to a string representation.
+ */
+
 public class Cup implements Measurable {
     // Initialize the contents of the cup to 0.0 ounces
     private double contents = 0.0;

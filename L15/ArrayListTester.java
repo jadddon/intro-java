@@ -2,6 +2,16 @@ package L15;
 
 import java.util.ArrayList; // Import ArrayList class
 
+/**
+ * Key Concepts to Learn:
+ * 
+ * 1. ArrayList Basics: This program demonstrates the creation, modification, and traversal of an ArrayList in Java.
+ * 2. Dynamic Array Operations: The program showcases the dynamic nature of ArrayLists by adding, removing, and inserting elements at specific positions.
+ * 3. Element Access and Modification: It highlights how to access and modify elements within an ArrayList using their index.
+ * 
+ * This program creates an ArrayList of Strings, adds elements, prints each element, replaces an element, removes an element, inserts an element at a specific position, and finally prints the entire ArrayList.
+ */
+
 public class ArrayListTester {
     public static void main(String[] args) {
         // Create an ArrayList of Strings

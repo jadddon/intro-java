@@ -1,5 +1,15 @@
 package L13;
 
+/**
+ * Key Concepts to Learn:
+ * 
+ * 1. Binary Search: This program demonstrates the implementation of binary search in a sorted array, highlighting the efficient search process.
+ * 2. Linear Search: It showcases the use of linear search in an array, illustrating a simple yet less efficient search approach.
+ * 3. Method Overloading: The program exemplifies method overloading by providing two search methods with different parameters, allowing for flexibility in search operations.
+ * 
+ * This program includes two search methods: binarySearch for sorted arrays and linearSearch for any array. The main method tests these search methods with a sample array.
+ */
+
 public class Search {
     // Method to perform binary search in a sorted array
     public static int binarySearch(int[] arr, int v) {

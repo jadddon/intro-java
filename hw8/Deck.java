@@ -1,4 +1,4 @@
-package hw8a;
+package hw8;
 
 public class Deck {
 	

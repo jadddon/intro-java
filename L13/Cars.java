@@ -1,5 +1,17 @@
 package L13;
 
+/**
+ * Key Concepts to Learn:
+ * 
+ * 1. Object-Oriented Programming: This program demonstrates the use of classes and objects to represent real-world entities, specifically cars.
+ * 2. Array Manipulation: It showcases how to create, initialize, and manipulate an array of objects, including accessing and modifying individual elements.
+ * 3. Method Invocation: The program highlights the use of methods to perform actions on objects, such as changing the color of a car or accelerating it.
+ * 
+ * This program creates a Car class with instance variables for the car's make, model, year, color, and speed. It has a constructor to initialize the car's properties, accessor methods to get the car's properties, mutator methods to change the car's color and speed, and a method to provide a string representation of the car.
+ * 
+ * The main method demonstrates the creation and manipulation of Car objects, including changing their properties and printing their state.
+ */
+
 public class Cars {
     public static void main(String[] args) {
         // Create an instance of Car and print its initial state

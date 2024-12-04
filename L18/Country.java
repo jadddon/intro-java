@@ -1,5 +1,15 @@
 package L18;
 
+/**
+ * Key Concepts to Learn:
+ * 
+ * 1. Object-Oriented Programming: This program demonstrates the use of classes and objects to model real-world entities, such as a country.
+ * 2. Encapsulation: The Country class encapsulates its data (name, population, and area) and provides methods to manipulate and access it.
+ * 3. Comparable Interface: The Country class implements the Comparable interface, allowing for comparison and sorting of Country objects.
+ * 
+ * This program defines a Country class that encapsulates a country's name, population, and area, providing methods to access and compare this data, as well as convert the country's information to a string representation.
+ */
+
 // Class Country represents a country with its name, population, and area
 public class Country implements Comparable<Country> {
     private String name; // Name of the country

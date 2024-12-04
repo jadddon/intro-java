@@ -1,5 +1,15 @@
 package L20;
 
+/**
+ * Key Concepts to Learn:
+ * 
+ * 1. Basic Output: This program demonstrates how to output values to the console using System.out.print() and System.out.println() methods.
+ * 2. String Formatting: The program showcases the use of System.out.printf() for formatted string output, allowing for more control over the output format.
+ * 3. Error Stream Output: The program also demonstrates how to output values to the error stream using System.err.println(), which is typically used for error messages.
+ * 
+ * This program initializes two integer variables, x and y, and outputs their values to the console using different methods, including basic output, formatted output, and error stream output.
+ */
+
 public class TerminalOutput {
     public static void main(String[] args) {
         // Initialize two integer variables

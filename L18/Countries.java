@@ -2,6 +2,17 @@ package L18;
 
 import java.util.Arrays; // Import Arrays class for sorting
 
+/**
+ * Key Concepts to Learn:
+ * 
+ * 1. Object-Oriented Programming: This program demonstrates the use of classes and objects to model real-world entities, such as a country.
+ * 2. Encapsulation: The Country class encapsulates its data (name, population, and area) and provides methods to manipulate and access it.
+ * 3. Comparable Interface: The Country class implements the Comparable interface, allowing for comparison and sorting of Country objects.
+ * 4. Arrays: The program uses arrays to manage a collection of Country objects, demonstrating the flexibility of arrays in Java.
+ * 
+ * This program defines a Countries class that creates instances of Country, compares and prints the results, creates an array of Country objects, prints each country in the array before and after sorting, and sorts the array of countries.
+ */
+
 public class Countries {
     public static void main(String[] args) {
         // Create instances of Country

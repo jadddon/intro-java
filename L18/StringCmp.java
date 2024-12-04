@@ -4,6 +4,16 @@ import java.util.Arrays; // Import Arrays class for sorting
 import java.util.Collections; // Import Collections class for sorting
 import java.util.ArrayList; // Import ArrayList class for dynamic array
 
+/**
+ * Key Concepts to Learn:
+ * 
+ * 1. String Comparison: This program demonstrates the use of the compareTo method for comparing strings, highlighting how to determine the lexicographical order of strings.
+ * 2. Arrays and ArrayLists: The program showcases the use of both arrays and ArrayLists to manage collections of strings, illustrating the differences and similarities between these data structures.
+ * 3. Sorting: The program utilizes the Arrays.sort and Collections.sort methods to sort arrays and ArrayLists of strings, respectively, demonstrating how to arrange strings in lexicographical order.
+ * 
+ * This program compares strings using the compareTo method, creates and sorts arrays and ArrayLists of strings, and prints the results to the console.
+ */
+
 public class StringCmp {
     public static void main(String[] args) {
         // Initialize strings a and b

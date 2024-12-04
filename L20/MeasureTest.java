@@ -1,5 +1,15 @@
 package L20;
 
+/**
+ * Key Concepts to Learn:
+ * 
+ * 1. Polymorphism: This program demonstrates the use of polymorphism through the Measurable interface, which allows objects of different classes (Cup and Duck) to be treated as Measurable objects.
+ * 2. Interface Implementation: The program showcases the implementation of the Measurable interface by the Cup and Duck classes, highlighting how they provide their own implementation of the measure() method.
+ * 3. Object-Oriented Programming: The program models real-world entities (a cup and ducks) using classes and objects, demonstrating encapsulation, inheritance, and polymorphism.
+ * 
+ * This program tests the Measurable interface by creating objects of different classes that implement it, demonstrating how they can be treated uniformly despite their differences.
+ */
+
 public class MeasureTest {
     public static void main(String[] args) {
         // Create a Cup object and fill it with 12 ounces of liquid
