@@ -1,6 +1,13 @@
 package L11;
 
-// This class is used to test the BankAccount3 class
+/**
+ * Key Concepts to Learn:
+ * 
+ * 1. Object-Oriented Programming (OOP): This program demonstrates the principles of OOP by creating a BankAccountTester3 class that interacts with the BankAccount3 class, showcasing the use of objects and their methods.
+ * 2. Method Invocation: The program highlights the use of methods from the BankAccount3 class to manipulate and access the state of bank account objects.
+ * 
+ * This program includes a BankAccountTester3 class that tests the functionality of the BankAccount3 class by creating bank accounts, depositing and withdrawing money, and printing the balances.
+ */
 public class BankAccountTester3 {
     public static void main(String[] args) {
         // Create two bank accounts, one with a balance of 0 and the other with a balance of 100

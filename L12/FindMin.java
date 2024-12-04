@@ -1,6 +1,13 @@
 package L12;
 
-// Class to find the minimum element in an array
+/**
+ * Key Concepts to Learn:
+ * 
+ * 1. Array Traversal: This program demonstrates how to traverse an array of integers and find the minimum value.
+ * 2. Method Invocation: The program highlights the use of methods to find the minimum value in an array.
+ * 
+ * This program includes a method to find the minimum value in an array and a main method to test it with a sample array.
+ */
 public class FindMin {
     // Method to find the index of the minimum element in an array
     public static int min(int[] arr) {

@@ -1,5 +1,13 @@
 package L10;
 
+/**
+ * Key Concepts to Learn:
+ * 
+ * 1. Object-Oriented Programming (OOP): This program demonstrates the principles of OOP by creating a CounterTester class, showcasing the use of objects and their methods.
+ * 2. Method Invocation: The program highlights the use of methods from the Counter class to manipulate and access the state of counter objects.
+ * 
+ * This program includes a CounterTester class that tests the functionality of the Counter class by creating instances, clicking to increment the count, resetting the count, and printing the count at different stages.
+ */
 public class CounterTester {
     public static void main(String[] args) {
         // Create two Counter objects

@@ -1,5 +1,13 @@
 package L10;
 
+/**
+ * Key Concepts to Learn:
+ * 
+ * 1. Object-Oriented Programming (OOP): This program demonstrates the principles of OOP by creating a BankAccountTester2 class, showcasing the use of objects and their methods.
+ * 2. Method Invocation: The program highlights the use of methods from the BankAccount2 class to manipulate and access the state of bank account objects.
+ * 
+ * This program includes a BankAccountTester2 class that tests the functionality of the BankAccount2 class by creating instances, depositing and withdrawing money, and printing the balance at different stages.
+ */
 public class BankAccountTester2 {
     public static void main(String[] args) {
         // Create a BankAccount2 object with an initial balance of $1000

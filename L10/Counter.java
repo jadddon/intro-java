@@ -1,5 +1,13 @@
 package L10;
 
+/**
+ * Key Concepts to Learn:
+ * 
+ * 1. Object-Oriented Programming (OOP): This program demonstrates the principles of OOP by creating a Counter class, showcasing the use of objects and their methods.
+ * 2. Encapsulation: The program demonstrates encapsulation by hiding the count within the class and providing methods to manipulate and access it.
+ * 
+ * This program includes a Counter class that has methods to increment and reset the count of a simple counter.
+ */
 // Represents a simple counter that can be clicked to increment its count and reset to zero.
 public class Counter {
     // Instance variable to store the count

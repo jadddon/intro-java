@@ -1,5 +1,13 @@
 package L4;
 
+/**
+ * Key Concepts to Learn:
+ * 
+ * 1. Basic Output: This program demonstrates the use of System.out.println for printing messages to the console.
+ * 2. String Literals: The program showcases the use of string literals for printing different greetings in various languages.
+ * 
+ * This program prints greetings in different languages to the console, highlighting the use of System.out.println and string literals.
+ */
 public class HelloWorld { // Define a public class named HelloWorld
     public static void main(String[] args) { // Main method where the program execution begins
         // This is where we print stuff out

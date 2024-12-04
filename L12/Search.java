@@ -1,5 +1,13 @@
 package L12;
 
+/**
+ * Key Concepts to Learn:
+ * 
+ * 1. Linear Search: This program demonstrates the implementation of linear search in an array, highlighting a simple yet less efficient search approach.
+ * 
+ * This program includes a method to perform linear search in an array and a main method to test it with a sample array.
+ */
+
 public class Search {
     // Method to perform linear search in an array
     public static int linearSearch(int[] arr, int v) {

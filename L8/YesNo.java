@@ -2,7 +2,14 @@ package L8;
 
 import java.util.Scanner;
 
-// This class is used to ask the user if they like ice cream
+/**
+ * Key Concepts to Learn:
+ * 
+ * 1. User Input: This program demonstrates how to use the Scanner class to read user input.
+ * 2. Conditional Statements: The program highlights the use of if-else statements to check conditions and make decisions based on user input.
+ * 
+ * This class is used to ask the user if they like ice cream and respond accordingly.
+ */
 public class YesNo {
     public static void main(String[] args) {
         // Create a Scanner object for user input

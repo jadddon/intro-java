@@ -1,5 +1,14 @@
 package L6;
 
+/**
+ * Key Concepts to Learn:
+ * 
+ * 1. Data Types: This program demonstrates the use of different data types such as float, double, and int for numerical operations.
+ * 2. Division Operations: The program highlights the differences in division operations between different data types, including integer division and explicit casting.
+ * 3. Math Functions: The program showcases the use of Math functions for floor, ceil, and round operations, as well as calculating sine values.
+ * 
+ * This program explores various mathematical operations and concepts in Java, including data types, division operations, and Math functions.
+ */
 public class MathTest {
     public static void main(String[] args) {
         // Declare and initialize variables

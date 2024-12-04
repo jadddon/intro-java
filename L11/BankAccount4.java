@@ -1,5 +1,16 @@
 package L11;
 
+/**
+ * Key Concepts to Learn:
+ * 
+ * 1. Object-Oriented Programming (OOP): This program demonstrates the principles of OOP by creating a BankAccount4 class with instance variables, constructors, and methods that encapsulate the behavior of a bank account.
+ * 2. Constructors: The program highlights the use of constructors to initialize objects with different parameters, including a default constructor.
+ * 3. Method Overloading: It showcases method overloading by providing two versions of the withdraw method, allowing for flexibility in how the method is called.
+ * 4. Encapsulation: The program exemplifies encapsulation by hiding the balance instance variable and providing methods to manipulate and access it.
+ * 
+ * This program includes a BankAccount4 class that simulates a bank account with methods to deposit, withdraw, and get the balance.
+ */
+
 public class BankAccount4 {
     //Instance variable
     private double balance;

@@ -1,6 +1,14 @@
 package L10;
 
-// Class to test the BankAccount3 class
+/**
+ * Key Concepts to Learn:
+ * 
+ * 1. Object-Oriented Programming (OOP): This program demonstrates the principles of OOP by creating a BankAccountTester3 class, showcasing the use of objects and their methods.
+ * 2. Method Overloading: The program highlights the use of method overloading to provide different ways to withdraw money from the bank account, either with or without a fee.
+ * 3. Encapsulation: The program demonstrates encapsulation by hiding the balance of the bank account within the class and providing methods to manipulate and access it.
+ * 
+ * This program includes a BankAccountTester3 class that tests the functionality of the BankAccount3 class by creating instances, depositing and withdrawing money, and printing the balance at different stages.
+ */
 public class BankAccountTester3 {
     // Main method to run the application
     public static void main(String[] args) {

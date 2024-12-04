@@ -2,6 +2,14 @@ package L9;
 
 import java.util.Scanner; // Importing the Scanner class for user input
 
+/**
+ * Key Concepts to Learn:
+ * 
+ * 1. User Input: This program demonstrates how to use the Scanner class to read user input.
+ * 2. Switch Statement: The program highlights the use of a switch statement to handle different cases based on user input.
+ * 
+ * This program includes a SwitchTest class that tests the functionality of handling user input using a switch statement. It prompts the user to choose an option, reads the input, and outputs a corresponding message based on the choice.
+ */
 public class SwitchTest {
     public static void main(String[] args) {
         // Create a Scanner object for user input

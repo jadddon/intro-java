@@ -2,6 +2,14 @@ package L9;
 
 import java.awt.Rectangle; // Importing the Rectangle class from java.awt
 
+/**
+ * Key Concepts to Learn:
+ * 
+ * 1. Object-Oriented Programming (OOP): This program demonstrates the principles of OOP by creating a RecTest class, showcasing the use of objects and their methods.
+ * 2. Method Invocation: The program highlights the use of methods from the Rectangle class to manipulate and access the state of rectangle objects.
+ * 
+ * This program includes a RecTest class that tests the functionality of the Rectangle class by creating instances, translating rectangles, and printing their coordinates and dimensions at different stages.
+ */
 public class RecTest {
     public static void main(String[] args) {
         // Creating a new Rectangle object 'a' with specified coordinates and dimensions

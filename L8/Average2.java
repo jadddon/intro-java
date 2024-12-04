@@ -2,6 +2,16 @@ package L8;
 
 import java.util.Scanner; // Importing the Scanner class for user input
 
+/**
+ * Key Concepts to Learn:
+ * 
+ * 1. User Input: This program demonstrates how to use the Scanner class to read user input.
+ * 2. Looping: The program highlights the use of a while loop to continuously read numbers until a negative number is entered.
+ * 3. Conditional Statements: The program demonstrates the use of if statements to check conditions and make decisions based on user input.
+ * 4. Data Types and Operations: The program showcases the use of different data types (int and double) and operations (addition, division) to calculate the average of numbers.
+ * 
+ * This program calculates the average of a series of numbers entered by the user. It continues to prompt the user for numbers until a negative number is entered, indicating the end of the input.
+ */
 public class Average2 {
     public static void main(String[] args) {
         // Create a Scanner object for user input

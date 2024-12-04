@@ -1,5 +1,14 @@
 package L11;
 
+/**
+ * Key Concepts to Learn:
+ * 
+ * 1. Prime Number Check: This program demonstrates a method to check if a number is prime, showcasing the use of conditional statements and loops to determine primality.
+ * 2. User Input: The program highlights the use of the Scanner class to read user input, allowing for dynamic interaction with the program.
+ * 
+ * This program includes a method to check if a number is prime and a main method to test it with user input.
+ */
+
 import java.util.Scanner; // Importing the Scanner class for user input
 
 public class Helper {

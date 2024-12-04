@@ -2,6 +2,16 @@ package L5;
 
 import java.util.Scanner; // Importing the Scanner class for user input
 
+/**
+ * Key Concepts to Learn:
+ * 
+ * 1. Basic Arithmetic Operations: This program demonstrates the use of basic arithmetic operations such as addition, subtraction, multiplication, division, and modulus.
+ * 2. Integer Division: The program highlights the concept of integer division, where the fractional part is discarded, and the result is an integer.
+ * 3. Order of Operations: The program showcases the importance of order of operations in mathematical expressions, including the use of parentheses to change the order.
+ * 4. User Input: This program demonstrates how to use the Scanner class to read user input and perform operations based on that input.
+ * 
+ * This program explores basic arithmetic operations, integer division, order of operations, and user input in Java.
+ */
 public class SimpleMath {
     public static void main(String[] args) {
         int x, y; // Declare integer variables x and y

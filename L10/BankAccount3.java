@@ -1,5 +1,14 @@
 package L10;
 
+/**
+ * Key Concepts to Learn:
+ * 
+ * 1. Object-Oriented Programming (OOP): This program demonstrates the principles of OOP by creating a BankAccount3 class, showcasing the use of objects and their methods.
+ * 2. Method Overloading: The program highlights the use of method overloading to provide different ways to withdraw money from the bank account, either with or without a fee.
+ * 3. Encapsulation: The program demonstrates encapsulation by hiding the balance of the bank account within the class and providing methods to manipulate and access it.
+ * 
+ * This program includes a BankAccount3 class that has methods to withdraw, deposit, and get the balance of a bank account, with an additional feature to withdraw with a fee.
+ */
 public class BankAccount3 {
     //Instance variable
     private double balance; 

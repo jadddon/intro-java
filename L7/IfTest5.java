@@ -2,6 +2,14 @@ package L7;
 
 import java.util.Scanner; // Importing the Scanner class for user input
 
+/**
+ * Key Concepts to Learn:
+ * 
+ * 1. User Input: This program demonstrates how to use the Scanner class to read user input.
+ * 2. Conditional Statements: The program highlights the use of if-else statements to check conditions and make decisions based on user input.
+ * 
+ * This program prompts the user to enter a number and checks if it is the answer (42), close to the answer (41 or 43), or not close at all. It then prints a message based on the user's input.
+ */
 public class IfTest5 {
     public static void main(String[] args) {
         // Create a Scanner object for user input

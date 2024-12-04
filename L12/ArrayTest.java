@@ -1,5 +1,15 @@
 package L12;
 
+/**
+ * Key Concepts to Learn:
+ * 
+ * 1. Array Basics: This program demonstrates the creation, initialization, and manipulation of an array in Java.
+ * 2. Array Indexing: It showcases how to access and modify elements within an array using their index.
+ * 3. Array Traversal: The program highlights how to loop through an array and print each element's index and value.
+ * 
+ * This program initializes an array of integers, assigns values to each element, updates an element based on another element's value, and finally prints each element's index and value.
+ */
+
 public class ArrayTest {
     public static void main(String[] args) {
         // Declare and initialize an array of size 4

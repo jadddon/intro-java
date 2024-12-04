@@ -2,6 +2,14 @@ package L8;
 
 import java.util.Scanner; // Importing the Scanner class for user input
 
+/**
+ * Key Concepts to Learn:
+ * 
+ * 1. User Input: This program demonstrates how to use the Scanner class to read user input.
+ * 2. Looping: The program highlights the use of nested for loops to iterate over a range of numbers and perform a specific action.
+ * 
+ * This program prompts the user to enter the size of a multiplication table and then prints the table up to the entered size.
+ */
 public class NestedFor {
     public static void main(String[] args) {
         // Create a Scanner object for user input

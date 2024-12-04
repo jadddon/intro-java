@@ -2,6 +2,14 @@ package L11;
 
 import java.util.Random; // Importing the Random class for generating random numbers
 
+/**
+ * Key Concepts to Learn:
+ * 
+ * 1. Random Number Generation: This program demonstrates the generation of random numbers using the Math and Random classes, showcasing the use of these classes to generate random numbers.
+ * 2. Looping: The program highlights the use of loops to generate and print multiple random numbers.
+ * 
+ * This program includes a RandomTester class that generates and prints random numbers using the Math and Random classes.
+ */
 public class RandomTester {
     public static void main(String[] args) {
         // Generating a random double value using Math.random()
