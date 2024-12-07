@@ -26,7 +26,7 @@ public class Tower {
     }
     // Static variable to keep track of the number of moves
     static int count = 0;
-    // Main method to start the program
+    // Main method to start the program asd
     public static void main(String[] args) {
         // Get the number of disks from the command line arguments
         int disk = Integer.parseInt(args[0]);
