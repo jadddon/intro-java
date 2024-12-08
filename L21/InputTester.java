@@ -14,6 +14,7 @@ import java.io.FileNotFoundException;
 import java.io.File;
 import java.util.Scanner;
 
+
 // Class declaration
 public class InputTester {
     // Main method

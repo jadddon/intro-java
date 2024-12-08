@@ -1,4 +1,4 @@
-package zy9;
+package Z9;
 
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
