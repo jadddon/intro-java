@@ -14,7 +14,7 @@ public class Problem1 {
     public static void main(String[] args) {
         // Testing the pow method with different values of x and n
         System.out.println(pow(2, 3)); // 8
-        System.out.println(pow(3, 2)); // 9
+        System.out.println(pow(2, 4)); // 9
         System.out.println(pow(5, 0)); // 1
         System.out.println(pow(4, 4)); // 256
     }
